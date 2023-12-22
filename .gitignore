@@ -1,0 +1,41 @@
+# Prerequisites
+*.d
+
+# Build and install folders
+install/
+
+# Develop environment
+.vscode/
+
+# CMake
+CMakeLists.txt.user
+CMakeUserPresets.json
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

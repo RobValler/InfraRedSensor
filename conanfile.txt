@@ -1,0 +1,7 @@
+[requires]
+Logger/1.0.0
+ProtoRos/1.0.0
+[options]
+
+[generators]
+cmake
